@@ -1,0 +1,28 @@
+body {
+ font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
+ line-height: 1.8;
+ color: #818181;
+ }
+h1 {
+ background-color:#ea899a;
+ color: #fff;
+ text-transform: uppercase;
+ padding: 100px 25px;
+ text-align: center;
+ }
+ h2, h3 {
+ color: #1e90ff;
+ text-transform:uppercase;
+ }
+ p{
+    color: #1c1c1c;
+    text-indent: 30px;
+    text-transform: uppercase;
+ }
+ ol{
+    list-style-type: circle
+
+ }
+ li {
+    padding-left: 16px;
+  }
