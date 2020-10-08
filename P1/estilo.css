@@ -7,7 +7,7 @@ header{
    background-color:#acd9f3;
    color: #fff;
    text-transform: uppercase;
-   padding: 100px 25px;
+   padding: 100px 10px;
    text-align: center;
  }
 
@@ -17,7 +17,7 @@ header{
     text-align: center; 
  }
  h2, h3 {
-   color: #1e90ff;
+   color: #194861;
    text-transform:uppercase;
 
  }
