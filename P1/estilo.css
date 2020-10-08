@@ -1,8 +1,10 @@
+/*001*/
 body {
    font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
    line-height: 1.8;
    color: #818181;
  }
+ /*001*/
 header{
    background-color:#acd9f3;
    color: #fff;
@@ -10,17 +12,19 @@ header{
    padding: 100px 10px;
    text-align: center;
  }
-
+/*001*/
  main{
    padding: 100px 25px;
     background-color: antiquewhite;
     text-align: center; 
  }
+ /*002*/
  h2, h3 {
    color: #194861;
    text-transform:uppercase;
 
  }
+ /*001*/
  p{
     color: #1c1c1c;
     text-indent: 30px;
