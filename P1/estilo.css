@@ -6,30 +6,66 @@ body {
  }
  /*001*/
 header{
-   background-color:#acd9f3;
-   color: #fff;
+  margin-bottom: 40px;
+   color:white;
    text-transform: uppercase;
-   padding: 100px 10px;
+   padding: 200px 10px;
    text-align: center;
+
  }
 /*001*/
  main{
-   padding: 100px 25px;
+   padding: 20px 25px;
     background-color: antiquewhite;
-    text-align: center; 
+    text-align: justify; 
+   
+    margin-left: 150px;
+    margin-right: 150px;
  }
  /*002*/
  h2, h3 {
    color: #194861;
    text-transform:uppercase;
+   text-align: center;
 
  }
+
+ 
  /*001*/
  p{
     color: #1c1c1c;
     text-indent: 30px;
+    text-align: justify;
+  
+ }
+  /*001*/
+ footer{
+  background-color: blanchedalmond;
  }
  
+
+ /*Especificidad: a=0 b=0 c=1 1*/
+ dt{
+  font-size: 1.1em;
+  color: black;
+  text-align: left;
+}
+/*Especificidad: a=0 b=0 c=1 1*/
+dd{
+  margin-bottom: 30px;
+ 
+  
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
