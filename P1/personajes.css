@@ -1,15 +1,17 @@
-/*Especificidad: a=0 b=0 c=1 1*/
+/*001*/
 html {
     background: url(multimedia/cast.jpg) no-repeat center fixed; 
     background-size: cover;
 }
-
+/*001*/
 img{
     height: 200px;
     align-items: center;
     position:relative;
     margin-left: 40px;   
 }
+
+/*001*/
 header{
     text-shadow: black;
     

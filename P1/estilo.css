@@ -45,13 +45,13 @@ header{
  }
  
 
- /*Especificidad: a=0 b=0 c=1 1*/
+ /*001*/
  dt{
   font-size: 1.1em;
   color: black;
   text-align: left;
 }
-/*Especificidad: a=0 b=0 c=1 1*/
+/*001*/
 dd{
   margin-bottom: 30px;
  
